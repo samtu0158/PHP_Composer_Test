@@ -1,0 +1,6 @@
+{
+	"name" = "samtu0158/stacktest",
+	"require":{
+		"phpunit/phpunit": "4.1.*"
+	}
+}
